@@ -543,7 +543,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 00fb61ba-df3d-4918-b55c-4a418d37817e)
   )
-  (hierarchical_label "Neutral" (shape output) (at 132.08 68.58 0)
+  (hierarchical_label "Switched" (shape output) (at 132.08 68.58 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0efada5b-f104-4289-bfb1-71b289153f3d)
   )
