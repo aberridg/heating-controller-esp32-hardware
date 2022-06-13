@@ -17,5 +17,5 @@ via MQTT (for use with home automation systems such as Home Assistant).
 
 [Schematic](/heating-controller-esp32.pdf)
 
-I'm having some PCBs made/assembled by JLCPCB, so if you want one, let me know (via LinkedIn)! Or if you can't do that, raise an issue.
+I'm having some PCBs made/assembled by JLCPCB, so if you want one, let me know (via LinkedIn - link in my bio)! Or if you can't do that, raise an issue.
 
