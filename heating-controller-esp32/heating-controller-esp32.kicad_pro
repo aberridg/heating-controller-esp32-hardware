@@ -421,8 +421,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "heating-controller-esp32.step",
+      "vrml": "heating-controller-esp32.wrl"
     },
     "page_layout_descr_file": ""
   },
