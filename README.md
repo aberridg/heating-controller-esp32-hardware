@@ -20,3 +20,5 @@ via MQTT (for use with home automation systems such as Home Assistant).
 I'm having some PCBs made/assembled by JLCPCB, so if you want one, let me know (via LinkedIn - link in my bio)! Or if you can't do that, raise an issue.
 
 IMPORTANT: v1.0 - the connector for the thermostats is the wrong way round on the PCB, so the pin numbers are not consistent with the others. No matter, just wire accordingly. For reference, GND is the upper pin, closest to the bottom edge of the board.
+
+Also IMPORTANT: v1.0 - to flash the ESP32, hold down the Boot button and press reset.
